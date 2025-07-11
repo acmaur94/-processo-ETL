@@ -25,6 +25,3 @@ O conjunto de dados utilizado para este exemplo é o **"Titanic: Machine Learnin
     * `mysql-connector-python`
 * **Banco de Dados:** MySQL Server
 
-## 📂 Estrutura do Projeto
-
-O projeto está organizado da seguinte forma para manter a clareza e separação de responsabilidades:
